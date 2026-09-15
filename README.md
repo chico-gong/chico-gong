@@ -26,10 +26,10 @@
 
 | Project | What it does | Stack | Signal |
 | --- | --- | --- | --- |
-| [myqq](https://github.com/chico-gong/myqq) | Real-time meeting and communication software | C++, Qt, OpenCV, FFmpeg, SDL | [![Stars](https://img.shields.io/github/stars/chico-gong/myqq?style=flat-square&label=stars&color=0EA5E9)](https://github.com/chico-gong/myqq/stargazers) |
-| [VideoPlayer](https://github.com/chico-gong/VideoPlayer) | Streaming and video-on-demand player | C++, FFmpeg, SDL, RTMP | [![Stars](https://img.shields.io/github/stars/chico-gong/VideoPlayer?style=flat-square&label=stars&color=0EA5E9)](https://github.com/chico-gong/VideoPlayer/stargazers) |
-| [WebRTC-p2p](https://github.com/chico-gong/WebRTC-p2p) | Peer-to-peer calling with STUN/TURN | WebRTC, coturn | [![Last commit](https://img.shields.io/github/last-commit/chico-gong/WebRTC-p2p?style=flat-square&label=updated&color=8B5CF6)](https://github.com/chico-gong/WebRTC-p2p) |
-| [ConnectRedisAPI](https://github.com/chico-gong/ConnectRedisAPI) | Lightweight Redis access wrapper | C++ | [![Last commit](https://img.shields.io/github/last-commit/chico-gong/ConnectRedisAPI?style=flat-square&label=updated&color=8B5CF6)](https://github.com/chico-gong/ConnectRedisAPI) |
+| [myqq](https://github.com/chicolabs/myqq) | Real-time meeting and communication software | C++, Qt, OpenCV, FFmpeg, SDL | [![Stars](https://img.shields.io/github/stars/chicolabs/myqq?style=flat-square&label=stars&color=0EA5E9)](https://github.com/chicolabs/myqq/stargazers) |
+| [VideoPlayer](https://github.com/chicolabs/VideoPlayer) | Streaming and video-on-demand player | C++, FFmpeg, SDL, RTMP | [![Stars](https://img.shields.io/github/stars/chicolabs/VideoPlayer?style=flat-square&label=stars&color=0EA5E9)](https://github.com/chicolabs/VideoPlayer/stargazers) |
+| [WebRTC-p2p](https://github.com/chicolabs/WebRTC-p2p) | Peer-to-peer calling with STUN/TURN | WebRTC, coturn | [![Last commit](https://img.shields.io/github/last-commit/chicolabs/WebRTC-p2p?style=flat-square&label=updated&color=8B5CF6)](https://github.com/chicolabs/WebRTC-p2p) |
+| [ConnectRedisAPI](https://github.com/chicolabs/ConnectRedisAPI) | Lightweight Redis access wrapper | C++ | [![Last commit](https://img.shields.io/github/last-commit/chicolabs/ConnectRedisAPI?style=flat-square&label=updated&color=8B5CF6)](https://github.com/chicolabs/ConnectRedisAPI) |
 
 ## Toolbox
 
